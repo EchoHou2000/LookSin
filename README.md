@@ -8,4 +8,8 @@
 - 👯 I’m looking to be your friend if you also love technology。
 - 📫 How to reach me: houbingzhi123@gmail.com
 
+# My progress ⭐
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LookSin&show_icons=true&theme=radical)
+
+
 
